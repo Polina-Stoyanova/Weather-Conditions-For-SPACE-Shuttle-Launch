@@ -1,0 +1,31 @@
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\SPACE GUI.exe.config
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\SPACE GUI.exe
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\SPACE GUI.pdb
+D:\Hitachi\SPACE GUI\SPACE GUI\obj\Debug\SPACE GUI.csprojAssemblyReference.cache
+D:\Hitachi\SPACE GUI\SPACE GUI\obj\Debug\SPACE_GUI.Form1.resources
+D:\Hitachi\SPACE GUI\SPACE GUI\obj\Debug\SPACE_GUI.Properties.Resources.resources
+D:\Hitachi\SPACE GUI\SPACE GUI\obj\Debug\SPACE GUI.csproj.GenerateResource.cache
+D:\Hitachi\SPACE GUI\SPACE GUI\obj\Debug\SPACE GUI.csproj.CoreCompileInputs.cache
+D:\Hitachi\SPACE GUI\SPACE GUI\obj\Debug\SPACE GUI.exe
+D:\Hitachi\SPACE GUI\SPACE GUI\obj\Debug\SPACE GUI.pdb
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\MailKit.dll
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\MimeKit.dll
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\System.Buffers.dll
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\System.Memory.dll
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\System.Numerics.Vectors.dll
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\MailKit.pdb
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\MailKit.xml
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\MailKit.dll.config
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\MimeKit.pdb
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\MimeKit.xml
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\MimeKit.dll.config
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\System.Buffers.xml
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\System.Memory.xml
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\System.Numerics.Vectors.xml
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Hitachi\SPACE GUI\SPACE GUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Hitachi\SPACE GUI\SPACE GUI\obj\Debug\SPACE GUI.csproj.CopyComplete
